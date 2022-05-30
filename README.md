@@ -1,7 +1,7 @@
 # awesome-software-engineering
 
 ## Objectives
-I aim to make everythings here TRUE:
+I aim to make everything here TRUE:
 - Executable with code
 - Understandable with *just enough* context and examples
 - Reusable with simple & clear API (e.g. function, class, package)
