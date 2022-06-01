@@ -17,6 +17,11 @@ I aim to make everything here **TRUE**:
 ## Books & Papers
 - [Software Engineering at Google](https://abseil.io/resources/swe-book)
 
+## Github
+- [ml deployment by tfserving](https://github.com/deep-diver/ml-deployment-k8s-tfserving)
+- [Deploying ML models with FastAPI, Docker, and Kubernetes](https://github.com/sayakpaul/ml-deployment-k8s-fastapi)
+
+
 ## Blogs & Videos
 
 ## MOOC
